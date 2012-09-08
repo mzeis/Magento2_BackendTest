@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <add id="Emzee_BackendTest::mainmenuitem" title="Main menu item" module="Emzee_BackendTest" resource="Emzee_BackendTest::mainmenuitem" sortOrder="500"/>
+        <add id="Emzee_BackendTest::submenuitem1" title="Sub menu item 1" module="Emzee_BackendTest" parent="Emzee_BackendTest::mainmenuitem" resource="Emzee_BackendTest::submenuitem1"/>
+        <add id="Emzee_BackendTest::submenuitem2" title="Sub menu item 2" module="Emzee_BackendTest" parent="Emzee_BackendTest::mainmenuitem" resource="Emzee_BackendTest::submenuitem2"/>
+    </menu>
+</config>

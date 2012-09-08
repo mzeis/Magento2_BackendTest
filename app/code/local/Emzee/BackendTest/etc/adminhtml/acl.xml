@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <acl>
+        <resources>
+            <resource id="Mage_Adminhtml::admin">
+                <resource id="Emzee_BackendTest::mainmenuitem" module="Emzee_BackendTest" title="Main menu item" sortOrder="500">
+                    <resource id="Emzee_BackendTest::submenuitem1" title="Sub menu item 1" />
+                    <resource id="Emzee_BackendTest::submenuitem2" title="Sub menu item 2" />
+                </resource>
+            </resource>
+        </resources>
+    </acl>
+</config>

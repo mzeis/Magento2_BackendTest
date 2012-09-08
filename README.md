@@ -1,4 +1,2 @@
-Magento2_BackendTest
-====================
-
 Just a quick test for Magento 2 backend menu item creation, motivated by Joshs question on twitter: https://twitter.com/Prattski/status/243416616199667712.
+This works for me with Magento 2 commit https://github.com/magento/magento2/commit/c0cf1affff1bf37b75d4dbe636405f9142757745. 
